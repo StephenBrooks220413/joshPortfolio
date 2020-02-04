@@ -1,0 +1,23 @@
+{
+  "name": "developer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "bootstrap": "^4.4.1",
+    "build": "^0.1.4",
+    "create-react-app": "^3.3.1",
+    "lodash": "^4.17.15",
+    "react-bootstrap": "^1.0.0-beta.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
